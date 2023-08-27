@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nes-one
-- 👀 I’m interested in ... music, science, art, and cooking. 
+- 👀 I’m interested in ... music, science, art, and cooking.. 
 - 🌱 I’m currently learning ... Java and working towards my CCNA.
 - 💞️ I’m looking to collaborate on ... learning.
 - 📫 How to reach me ... mcnesone@gmail.com
